@@ -24,11 +24,13 @@ import (
 func CaptureHandler(Level int, Source string, Data ...any) error {
 	if Level == noa.ERROR || Level == noa.FATAL {
 		for _, Value := range Data {
-			if ValueError, ok := Value.(errors.Error); ok {
+			if ValueError, ok := Value.(*errors.Error); ok {
 				sentry.CaptureException(ValueError)
+				continue
 			}
 			if ValueError, ok := Value.(error); ok {
 				sentry.CaptureException(ValueError)
+				continue
 			}
 		}
 	}
