@@ -10,6 +10,8 @@ github.com/noa-log/colorize v1.0.1 h1:sOLx+nPupbZOG1de2KQEsmOl+R4glANfvWElohUFgb
 github.com/noa-log/colorize v1.0.1/go.mod h1:HksMHNpWZYvlG+rmRQJLdMnNI1A3CCVIbbiESxFmUyU=
 github.com/noa-log/noa v1.0.0 h1:Jzhpafvg15NPpkkAa+7uLU8cwKb7qouIfykVkhibXTI=
 github.com/noa-log/noa v1.0.0/go.mod h1:xzwDSNzUeGEVnjWbTBR+IAycgpHIi2WxPi7Oqh2nhrw=
+github.com/noa-log/noa v1.0.1 h1:ndO/9UGqyE/QH+TP6cIR/m54dond62bgJNLNB1f2Edg=
+github.com/noa-log/noa v1.0.1/go.mod h1:xzwDSNzUeGEVnjWbTBR+IAycgpHIi2WxPi7Oqh2nhrw=
 github.com/pingcap/errors v0.11.4 h1:lFuQV/oaUMGcD2tqt+01ROSmJs75VG1ToEOkZIZ4nE4=
 github.com/pingcap/errors v0.11.4/go.mod h1:Oi8TUi2kEtXXLMJk9l1cGmz20kV3TaQ0usTwv5KuLY8=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
