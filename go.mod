@@ -6,7 +6,7 @@ toolchain go1.24.2
 
 require (
 	github.com/getsentry/sentry-go v0.33.0
-	github.com/noa-log/noa v1.0.1
+	github.com/noa-log/noa v1.0.2
 )
 
 require (
